@@ -54,6 +54,9 @@
         },
         "tolerations": {
           "type": "array"
+        },
+        "priorityClassName": {
+          "type": "string"
         }
       },
       "required": [
